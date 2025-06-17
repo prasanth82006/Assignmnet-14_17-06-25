@@ -1,0 +1,18 @@
+.input_value{
+     margin: 10px;
+}
+.input_value input{
+     height: 15px;
+     padding: 5px;
+     font-size: 16px;
+     border-radius: 5px;
+     border: 1px solid #ccc;
+}
+.input_value label{
+     font-size: 16px;
+     color: #333;
+     margin-right: 10px; 
+     display: inline-block;
+     width: 50px;
+     text-align: right;
+}
